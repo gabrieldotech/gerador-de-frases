@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# mypy
+.mypy_cache/
+
+# coverage
+.coverage
+.coverage.*
+nosetests.xml
+test_coverage.xml
+*.cover
+*.py,cover
+
+# pytest
+.cache/
+*.pytest_cache/
+
+# Sphinx documentation
+docs/_build/
+build/
+*.pdf
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pyenv
+.python-version
+
+# pip
+pip-wheel-metadata/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Flask stuff:
+instance/
+*.pem
+
+# VS Code settings
+.settings/
