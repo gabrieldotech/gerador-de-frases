@@ -12,3 +12,9 @@ Um aplicativo Python simples que gera citações aleatórias e as traduz para o 
 
 - Python 3.6 ou superior
 - Bibliotecas Python: `requests`, `deep-translator`
+
+## Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/gabrieldotech/gerador-de-frases.git
