@@ -4,14 +4,14 @@ Um aplicativo Python simples que gera citações aleatórias e as traduz para o 
 
 ## Funcionalidades
 
-- **Gera Citações Aleatórias:** Obtém citações aleatórias da API Quotable.
+- **Gera Citações Aleatórias:** Obtém citações aleatórias da [API Quotable](https://github.com/lukePeavey/quotable).
 - **Tradução Automática:** Traduz as citações para o português usando o Google Translator.
 - **Saída Colorida:** Exibe as citações traduzidas no terminal com diferentes cores para facilitar a leitura.
 
 ## Requisitos
 
 - Python 3.6 ou superior
-- Bibliotecas Python: `requests`, `deep-translator`
+- Bibliotecas Python: [`requests`](https://pypi.org/project/requests/), [`deep-translator`](https://pypi.org/project/deep-translator/)
 
 ## Instalação
 
