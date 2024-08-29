@@ -1,4 +1,8 @@
 # Gerador de Frases
+[![Versão do Python](https://img.shields.io/badge/python-3.6%2B-brightgreen)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)](https://github.com/gabrieldotech/gerador-de-frases)
+[![Estrelas](https://img.shields.io/github/stars/gabrieldotech/gerador-de-frases)](https://github.com/gabrieldotech/gerador-de-frases/stargazers)
+[![Últimos Commits](https://img.shields.io/github/last-commit/gabrieldotech/gerador-de-frases)](https://github.com/gabrieldotech/gerador-de-frases/commits/main)
 
 Um aplicativo Python simples que gera citações aleatórias e as traduz para o português. As citações são exibidas no terminal com diferentes cores para facilitar a leitura.
 
