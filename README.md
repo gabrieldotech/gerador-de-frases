@@ -16,5 +16,18 @@ Um aplicativo Python simples que gera citações aleatórias e as traduz para o 
 ## Instalação
 
 1. Clone este repositório:
+
    ```bash
    git clone https://github.com/gabrieldotech/gerador-de-frases.git
+
+2. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+
+## Uso
+Execute o script principal:
+    
+    python3 app.py
+
+Siga as instruções na tela para gerar e traduzir citações.
+
